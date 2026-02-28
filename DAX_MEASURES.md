@@ -19,10 +19,9 @@ Documentation complète des **30 mesures DAX** utilisées dans le dashboard d'an
 
 ### CA Total
 ```dax
-CA Total = 
-SUM(FaitVentes[PrixStandardEUR]) * SUM(FaitVentes[QuantiteVendue])
+CA Total =  SUM(FaitVentes[RevenuEUR])
 ```
-**Description:** Chiffre d'affaires total (Prix × Quantité)  
+**Description:** Chiffre d'affaires total (Sommes des Revenues)  
 **Résultat:** €14,8M (2020-2023)  
 **Usage:** KPI principal sur toutes les pages
 
@@ -55,7 +54,7 @@ DIVIDE([Marge Totale], [CA Total], 0) * 100
 ### Qté Vendues
 ```dax
 Qté Vendues = 
-SUM(FaitVentes[QuantiteVendue])
+SUM(FaitVentes[UniteVendue])
 ```
 **Description:** Nombre total d'unités vendues  
 **Résultat:** 524 499 unités  
@@ -77,7 +76,7 @@ COUNTROWS(FaitVentes)
 ### Ca Moyen
 ```dax
 Ca Moyen = 
-AVERAGE(FaitVentes[PrixStandardEUR])
+AVERAGE(FaitVentes[RevenuEUR])
 ```
 **Description:** Prix moyen par transaction  
 **Usage:** Analyse pricing
@@ -203,7 +202,7 @@ DIVIDE(MargeSansPertes, [CA Total], 0) * 100
 CA Promo = 
 CALCULATE(
     [CA Total],
-    FaitVentes[Promotion] = "Oui"
+    FaitVentes[Promo] = "Oui"
 )
 ```
 **Description:** CA avec promotion  
@@ -217,7 +216,7 @@ CALCULATE(
 CA Non Promo = 
 CALCULATE(
     [CA Total],
-    FaitVentes[Promotion] = "Non"
+    FaitVentes[Promo] = "Non"
 )
 ```
 **Description:** CA sans promotion  
@@ -231,7 +230,7 @@ CALCULATE(
 Marge % Promo = 
 CALCULATE(
     [Taux de Marge %],
-    FaitVentes[Promotion] = "Oui"
+    FaitVentes[Promo] = "Oui"
 )
 ```
 **Description:** Taux marge sur ventes promo  
@@ -245,7 +244,7 @@ CALCULATE(
 Marge % Non Promo = 
 CALCULATE(
     [Taux de Marge %],
-    FaitVentes[Promotion] = "Non"
+    FaitVentes[Promo] = "Non"
 )
 ```
 **Description:** Taux marge sur ventes normales  
@@ -533,7 +532,7 @@ RETURN ...
 ```dax
 CALCULATE(
     [CA Total],
-    FaitVentes[Promotion] = "Oui"
+    FaitVentes[Promo] = "Oui"
 )
 ```
 `CALCULATE` modifie le contexte de filtre.
@@ -604,11 +603,6 @@ DIVIDE([Marge], [CA], 0)
 - [SQLBI](https://www.sqlbi.com/articles/) - Articles experts
 - [Microsoft Learn](https://learn.microsoft.com/en-us/dax/) - Documentation officielle
 
-**Tutoriels vidéo:**
-- Curbal (Espagnol/Anglais)
-- Guy in a Cube (Anglais)
-- SQLBI (Anglais)
-
 **Communauté francophone:**
 - Power BI de A à Z (YouTube)
 - Forum Power BI France
@@ -620,7 +614,7 @@ DIVIDE([Marge], [CA], 0)
 Avant d'utiliser ces mesures dans un nouveau projet:
 
 - [ ] Adapter les noms de tables (`FaitVentes`, `DimProduit`, etc.)
-- [ ] Vérifier les noms de colonnes (`MargeEUR`, `Promotion`, etc.)
+- [ ] Vérifier les noms de colonnes (`MargeEUR`, `Promo`, etc.)
 - [ ] Tester les mesures avec données réelles
 - [ ] Valider les résultats vs Excel
 - [ ] Documenter les modifications
