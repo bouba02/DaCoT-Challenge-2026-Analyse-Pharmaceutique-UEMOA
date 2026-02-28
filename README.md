@@ -1,8 +1,8 @@
-# 🏥 DaCoT Challenge 2026: Analyse Pharmaceutique UEMOA
+#  DaCoT Challenge 2026: Analyse Pharmaceutique UEMOA
 
 ![Dashboard Overview](screenshots/page1_synthese.png)
 
-## 📊 Vue d'ensemble
+##  Vue d'ensemble
 
 Analyse complète des performances commerciales d'un réseau de **80 pharmacies** réparties dans **8 pays de l'UEMOA** sur la période 2020-2023. Ce projet identifie les leviers stratégiques pour inverser le déclin commercial et optimiser la rentabilité.
 
@@ -87,7 +87,7 @@ Analyse complète des performances commerciales d'un réseau de **80 pharmacies*
 
 ---
 
-## 📸 Aperçu du Dashboard
+## Aperçu du Dashboard
 
 ### Page 1: Synthèse Exécutive
 ![Synthèse](screenshots/page1_synthese.png)
@@ -111,7 +111,7 @@ Distribution géographique, analyse par profil pharmacie
 
 ---
 
-## 📚 Documentation détaillée
+##  Documentation détaillée
 
 📊 **[Business Insights](INSIGHTS.md)** - Analyse approfondie des résultats et méthodologie  
 💻 **[Mesures DAX](DAX_MEASURES.md)** - Code complet des 30 mesures calculées  
@@ -119,7 +119,7 @@ Distribution géographique, analyse par profil pharmacie
 
 ---
 
-## 🗂️ Structure du repository
+##  Structure du repository
 
 ```
 dacot-challenge-uemoa/
@@ -139,12 +139,12 @@ dacot-challenge-uemoa/
 │   ├── page4_cartographie.png
 │   └── page5_recommandations.png
 └── pbix/
-    └── DaCoT_Dashboard.pbix    # Fichier Power BI
+    └── Challenge Dacot.pbix    # Fichier Power BI
 ```
 
 ---
 
-## 🎓 Compétences démontrées
+##  Compétences démontrées
 
 **Business Intelligence:**
 - Analyse exploratoire et diagnostic business
@@ -184,12 +184,10 @@ Dans cette vidéo de 20 minutes, je détaille:
 **Boubacar Nikiema**  
 Data Analyst | Business Intelligence Specialist
 
-*"L'Alex The Analyst de l'espace francophone"*
-
-📧 Email: contact@ngroup.media  
+📧 Email: nikiemaboubacar@gmail.com
 💼 LinkedIn: [linkedin.com/in/boubacar-nikiema](https://linkedin.com/in/boubacar-nikiema)  
 🎥 YouTube: [@boubacarDataAnalyst](https://youtube.com/@boubacarDataAnalyst)  
-🌐 Portfolio: [ngroup.media](https://ngroup.media)
+🌐 Portfolio: [Data.ngroupmediadigital.com](https://data.ngroupmediadigital.com)
 
 ---
 
@@ -201,14 +199,13 @@ Data Analyst | Business Intelligence Specialist
 
 ---
 
-## 🙏 Remerciements
+##  Remerciements
 
-Challenge organisé par [Organisation DaCoT]  
-Inspiration méthodologique: Alex The Analyst, Luke Barousse
+Challenge organisé par Data Community Togo
 
 ---
 
-## 📌 Tags
+##  Tags
 
 `#PowerBI` `#DataAnalytics` `#BusinessIntelligence` `#DAX` `#UEMOA` `#Pharmaceutique` `#Dashboard` `#DataVisualization` `#BI` `#Analytics`
 
