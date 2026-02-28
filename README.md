@@ -106,7 +106,7 @@ Focus sur les pertes, analyse promotions, potentiel récupérable
 Distribution géographique, analyse par profil pharmacie
 
 ### Page 5: Tendances & Recommandations
-![Recommandations](screenshots/page5_recommandations.png)
+![Tendance & Recommandations](screenshots/page5_recommandations.png)
 Évolution catalogue, plan d'action chiffré
 
 ---
