@@ -1,0 +1,97 @@
+﻿{
+  "name": "Pharmacie UEMOA Dark Cyan",
+  "dataColors": [
+    "#1DE9B6",
+    "#00D9FF",
+    "#00BFA5",
+    "#26C6DA",
+    "#0097A7",
+    "#00838F",
+    "#64FFDA",
+    "#18FFFF"
+  ],
+  "background": "#0A2540",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#1DE9B6",
+
+  "good": "#00E676",
+  "neutral": "#26C6DA",
+  "bad": "#FF5252",
+
+  "textClasses": {
+    "label": {
+      "fontSize": 11,
+      "color": "#B0BEC5"
+    },
+    "callout": {
+      "fontSize": 45,
+      "fontFace": "Segoe UI",
+      "color": "#FFFFFF"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#FFFFFF"
+    },
+    "header": {
+      "fontSize": 16,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1DE9B6"
+    }
+  },
+
+  "visualStyles": {
+
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#0A2540"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF0D"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "lineChart": {
+      "*": {
+        "lineStyles": [
+          {
+            "strokeWidth": 3,
+            "strokeLineJoin": "round",
+            "lineStyle": "solid",
+            "showMarker": true
+          }
+        ]
+      }
+    },
+
+    "areaChart": {
+      "*": {
+        "transparency": [
+          {
+            "value": 60
+          }
+        ]
+      }
+    }
+  }
+}

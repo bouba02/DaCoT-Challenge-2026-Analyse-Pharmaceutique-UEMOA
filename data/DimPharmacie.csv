@@ -1,0 +1,81 @@
+ID_Pharmacie,NomPharmacie,Pays,Ville,TypePharmacie,DateOuverture,TailleDepot,Latitude,Longitude
+PH0001,Dépôt Pharmacie #001,Niger,Maradi,Urbain,2/2/2020,Petit,7.697383,-3.867915
+PH0002,Dépôt Pharmacie #002,Togo,SokodÃ©,Urbain,27/01/2021,Petit,14.040361,-13.375366
+PH0003,Dépôt Pharmacie #003,Togo,Kara,Semi-urbain,22/10/2021,Moyen,11.323723,9.484794
+PH0004,Dépôt Pharmacie #004,Niger,Niamey,Rural,2/7/2022,Moyen,2.138113,9.449616
+PH0005,Dépôt Pharmacie #005,Mali,Mopti,Rural,17/08/2022,Grand,-2.216191,-11.320581
+PH0006,Dépôt Pharmacie #006,Mali,Kayes,Urbain,30/08/2021,Moyen,0.402178,6.253495
+PH0007,Dépôt Pharmacie #007,GuinÃ©e-Bissau,GabÃº,Urbain,22/07/2022,Grand,7.952496,-7.550926
+PH0008,Dépôt Pharmacie #008,Mali,Kayes,Urbain,16/08/2020,Petit,-3.693847,-0.48657
+PH0009,Dépôt Pharmacie #009,SÃ©nÃ©gal,Dakar,Rural,2/8/2022,Grand,4.728713,3.764452
+PH0010,Dépôt Pharmacie #010,Togo,AtakpamÃ©,Rural,2/11/2020,Petit,-2.733275,-9.510801
+PH0011,Dépôt Pharmacie #011,Burkina Faso,Fada Nâ€™Gourma,Urbain,7/9/2022,Petit,5.293961,9.031925
+PH0012,Dépôt Pharmacie #012,Niger,Maradi,Semi-urbain,30/05/2020,Grand,9.759493,9.104763
+PH0013,Dépôt Pharmacie #013,Niger,Zinder,Rural,4/5/2021,Grand,0.451115,-11.4789
+PH0014,Dépôt Pharmacie #014,Mali,Mopti,Semi-urbain,26/03/2022,Moyen,-0.815602,6.828241
+PH0015,Dépôt Pharmacie #015,Burkina Faso,Ouagadougou,Urbain,22/02/2022,Grand,4.424199,-14.320312
+PH0016,Dépôt Pharmacie #016,BÃ©nin,Porto-Novo,Urbain,7/2/2020,Moyen,11.182251,14.817628
+PH0017,Dépôt Pharmacie #017,Mali,Kayes,Semi-urbain,13/08/2021,Grand,7.43849,1.861068
+PH0018,Dépôt Pharmacie #018,Togo,LomÃ©,Semi-urbain,21/08/2020,Moyen,-0.389314,-4.481743
+PH0019,Dépôt Pharmacie #019,Niger,Niamey,Semi-urbain,9/2/2021,Petit,3.824354,0.141323
+PH0020,Dépôt Pharmacie #020,Niger,Agadez,Urbain,29/10/2020,Moyen,3.37242,5.488154
+PH0021,Dépôt Pharmacie #021,Niger,Agadez,Urbain,23/04/2022,Moyen,14.655608,14.217601
+PH0022,Dépôt Pharmacie #022,Togo,LomÃ©,Rural,15/04/2020,Petit,3.276571,-8.621345
+PH0023,Dépôt Pharmacie #023,BÃ©nin,Parakou,Urbain,20/05/2020,Petit,9.824297,-8.322556
+PH0024,Dépôt Pharmacie #024,Niger,Agadez,Urbain,13/08/2022,Moyen,-1.161789,-11.016426
+PH0025,Dépôt Pharmacie #025,BÃ©nin,Abomey,Rural,26/02/2021,Moyen,0.29362,-9.711551
+PH0026,Dépôt Pharmacie #026,Burkina Faso,Bobo-Dioulasso,Urbain,19/11/2020,Moyen,3.205353,-8.611701
+PH0027,Dépôt Pharmacie #027,Burkina Faso,Bobo-Dioulasso,Semi-urbain,6/11/2020,Moyen,7.988118,7.00662
+PH0028,Dépôt Pharmacie #028,CÃ´te d'Ivoire,Yamoussoukro,Semi-urbain,10/12/2020,Moyen,6.204414,6.883185
+PH0029,Dépôt Pharmacie #029,CÃ´te d'Ivoire,Yamoussoukro,Semi-urbain,21/04/2022,Grand,2.911619,4.556912
+PH0030,Dépôt Pharmacie #030,Burkina Faso,Ouagadougou,Urbain,30/04/2020,Petit,11.316061,-6.853091
+PH0031,Dépôt Pharmacie #031,BÃ©nin,Parakou,Rural,1/2/2021,Grand,-0.584648,10.472179
+PH0032,Dépôt Pharmacie #032,CÃ´te d'Ivoire,Yamoussoukro,Urbain,29/11/2021,Grand,7.450655,-14.371639
+PH0033,Dépôt Pharmacie #033,SÃ©nÃ©gal,Kaolack,Rural,8/6/2021,Grand,6.014222,-8.111225
+PH0034,Dépôt Pharmacie #034,Mali,Sikasso,Urbain,2/4/2021,Moyen,8.979443,-2.269402
+PH0035,Dépôt Pharmacie #035,GuinÃ©e-Bissau,GabÃº,Semi-urbain,25/04/2021,Moyen,-3.325153,10.630043
+PH0036,Dépôt Pharmacie #036,Niger,Zinder,Rural,18/07/2021,Petit,8.573919,-14.351882
+PH0037,Dépôt Pharmacie #037,BÃ©nin,Cotonou,Urbain,24/09/2020,Grand,-1.504934,-10.99916
+PH0038,Dépôt Pharmacie #038,CÃ´te d'Ivoire,Yamoussoukro,Rural,4/7/2022,Grand,5.723934,-1.482417
+PH0039,Dépôt Pharmacie #039,Niger,Zinder,Semi-urbain,13/06/2020,Moyen,10.543075,14.732367
+PH0040,Dépôt Pharmacie #040,Togo,AtakpamÃ©,Rural,5/10/2021,Petit,4.965443,6.831699
+PH0041,Dépôt Pharmacie #041,GuinÃ©e-Bissau,GabÃº,Semi-urbain,28/09/2020,Grand,14.493398,-8.498163
+PH0042,Dépôt Pharmacie #042,Niger,Niamey,Semi-urbain,1/6/2022,Moyen,1.599928,7.126408
+PH0043,Dépôt Pharmacie #043,Niger,Agadez,Rural,10/11/2020,Moyen,13.972096,11.994747
+PH0044,Dépôt Pharmacie #044,GuinÃ©e-Bissau,BafatÃ¡,Semi-urbain,25/06/2020,Moyen,5.035667,-8.322673
+PH0045,Dépôt Pharmacie #045,CÃ´te d'Ivoire,San Pedro,Urbain,9/3/2021,Moyen,2.987108,-4.345012
+PH0046,Dépôt Pharmacie #046,BÃ©nin,Porto-Novo,Rural,7/5/2022,Petit,8.459033,-1.592002
+PH0047,Dépôt Pharmacie #047,SÃ©nÃ©gal,ThiÃ¨s,Semi-urbain,15/10/2020,Grand,1.566465,-14.917437
+PH0048,Dépôt Pharmacie #048,Mali,Kayes,Rural,10/6/2020,Grand,5.109662,1.945209
+PH0049,Dépôt Pharmacie #049,CÃ´te d'Ivoire,Yamoussoukro,Urbain,19/06/2020,Petit,-3.679497,5.519786
+PH0050,Dépôt Pharmacie #050,Burkina Faso,Ouagadougou,Urbain,20/05/2021,Moyen,12.469174,-8.820674
+PH0051,Dépôt Pharmacie #051,CÃ´te d'Ivoire,Abidjan,Urbain,5/9/2022,Moyen,9.86831,7.788646
+PH0052,Dépôt Pharmacie #052,Mali,Mopti,Rural,7/9/2021,Moyen,14.756278,8.64019
+PH0053,Dépôt Pharmacie #053,Mali,Sikasso,Semi-urbain,25/07/2020,Grand,10.841893,-6.119884
+PH0054,Dépôt Pharmacie #054,Mali,Sikasso,Semi-urbain,25/07/2022,Moyen,14.257024,5.228567
+PH0055,Dépôt Pharmacie #055,GuinÃ©e-Bissau,BafatÃ¡,Semi-urbain,13/09/2020,Moyen,4.626509,-14.298905
+PH0056,Dépôt Pharmacie #056,SÃ©nÃ©gal,Dakar,Rural,26/12/2021,Petit,5.82609,13.393003
+PH0057,Dépôt Pharmacie #057,Togo,LomÃ©,Semi-urbain,12/9/2020,Moyen,14.712531,-13.603623
+PH0058,Dépôt Pharmacie #058,Mali,Kayes,Semi-urbain,2/6/2021,Petit,8.636289,1.419303
+PH0059,Dépôt Pharmacie #059,CÃ´te d'Ivoire,BouakÃ©,Semi-urbain,18/05/2022,Grand,10.188458,-5.458127
+PH0060,Dépôt Pharmacie #060,Burkina Faso,Koudougou,Semi-urbain,27/03/2021,Petit,2.87997,-13.183151
+PH0061,Dépôt Pharmacie #061,GuinÃ©e-Bissau,BafatÃ¡,Rural,15/02/2021,Moyen,7.299249,13.696955
+PH0062,Dépôt Pharmacie #062,Burkina Faso,Bobo-Dioulasso,Semi-urbain,7/5/2021,Petit,1.871331,9.783858
+PH0063,Dépôt Pharmacie #063,Burkina Faso,Koudougou,Rural,4/8/2020,Moyen,4.002475,-3.776512
+PH0064,Dépôt Pharmacie #064,CÃ´te d'Ivoire,San Pedro,Urbain,14/06/2020,Petit,10.291314,0.268005
+PH0065,Dépôt Pharmacie #065,Burkina Faso,Fada Nâ€™Gourma,Rural,29/10/2021,Petit,6.483434,2.962866
+PH0066,Dépôt Pharmacie #066,BÃ©nin,Parakou,Rural,19/01/2021,Petit,9.267082,13.252061
+PH0067,Dépôt Pharmacie #067,SÃ©nÃ©gal,ThiÃ¨s,Urbain,9/1/2022,Grand,7.725337,9.532132
+PH0068,Dépôt Pharmacie #068,Togo,LomÃ©,Semi-urbain,14/06/2021,Grand,4.470934,-11.303553
+PH0069,Dépôt Pharmacie #069,Niger,Zinder,Urbain,1/3/2020,Moyen,7.727058,10.860508
+PH0070,Dépôt Pharmacie #070,Niger,Zinder,Urbain,6/7/2020,Petit,12.034723,-9.054357
+PH0071,Dépôt Pharmacie #071,BÃ©nin,Parakou,Urbain,29/05/2021,Petit,1.940574,-1.584536
+PH0072,Dépôt Pharmacie #072,Burkina Faso,Ouagadougou,Urbain,24/03/2021,Grand,1.749921,-7.941771
+PH0073,Dépôt Pharmacie #073,Togo,Kara,Urbain,10/6/2021,Petit,8.235562,3.576943
+PH0074,Dépôt Pharmacie #074,SÃ©nÃ©gal,Saint-Louis,Urbain,31/12/2020,Moyen,0.33907,-13.55357
+PH0075,Dépôt Pharmacie #075,Togo,AtakpamÃ©,Semi-urbain,31/07/2022,Moyen,3.0701,-9.776232
+PH0076,Dépôt Pharmacie #076,Burkina Faso,Koudougou,Urbain,18/04/2020,Petit,10.47139,11.135178
+PH0077,Dépôt Pharmacie #077,GuinÃ©e-Bissau,GabÃº,Semi-urbain,21/01/2020,Petit,7.867867,13.688271
+PH0078,Dépôt Pharmacie #078,Niger,Maradi,Semi-urbain,18/02/2020,Moyen,-3.755769,-10.06156
+PH0079,Dépôt Pharmacie #079,BÃ©nin,Abomey,Rural,20/11/2021,Grand,-1.249195,4.993762
+PH0080,Dépôt Pharmacie #080,CÃ´te d'Ivoire,San Pedro,Urbain,29/03/2021,Petit,-3.659235,-2.60119
